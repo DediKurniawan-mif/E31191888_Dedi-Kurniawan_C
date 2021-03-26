@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project kurniawan</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="masuk">Masuk</string>
+    <string name="Registrasi_Jika_Belum_Memiliki_Akun">Registrasi Jika Belum Memiliki Akun</string>
+    <string name="Inputkan_Password">Inputkan Password</string>
+    <string name="Inputkan_Email_User">Inputkan Email User</string>
+    <string name="todo">TODO</string>
+</resources>
