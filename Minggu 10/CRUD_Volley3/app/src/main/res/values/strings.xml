@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD_Volley</string>
+    <string name="text_insert">Insert</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_username">Username</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_password">Password</string>
+    <string name="text_grup">Grup</string>
+    <string name="text_batal">Batal</string>
+    <string name="text_simpan">Simpan</string>
+</resources>
